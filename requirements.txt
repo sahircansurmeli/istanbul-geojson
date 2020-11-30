@@ -1,0 +1,2 @@
+requests~=2.25.0
+ratelimit~=2.2.1
